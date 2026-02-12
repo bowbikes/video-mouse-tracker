@@ -1,0 +1,18 @@
+# Output directories
+output_*/
+
+# Test videos
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+
+# Windows artifacts
+nul
+
+# Claude Code
+.claude/
