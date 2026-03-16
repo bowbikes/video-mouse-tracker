@@ -1,18 +1,27 @@
 # Output directories
 output_*/
 
-# Test videos
+# Video / audio files
 *.mp4
 *.avi
 *.mkv
 *.mov
+*.m4a
+
+# Session data (large, not tracked)
+Session_Recordings/
+Session_Recordings.zip
+transcripts/
+final reporting/
 
 # Python
 __pycache__/
 *.pyc
+*.egg-info/
 
 # Windows artifacts
 nul
+Thumbs.db
 
 # Claude Code
 .claude/
