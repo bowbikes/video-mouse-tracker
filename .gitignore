@@ -13,6 +13,7 @@ Session_Recordings/
 Session_Recordings.zip
 transcripts/
 final reporting/
+results_summary.csv
 
 # Python
 __pycache__/
